@@ -4,7 +4,7 @@ I am passionate about Computer Science and tech.
 
 <div align="center">
   <br>
-    <img src="https://giorgos-argyrides.dev/assets/static/my_avatar.daf345a.dbc1286f67625fdb6a55d4bae2dd7440.svg" alt="giorgos" width="200">
+    <img src="https://giorgos-argyrides.dev/assets/static/my_avatar.daf345a.dbc1286f67625fdb6a55d4bae2dd7440.svg" alt="giorgos" width="100">
   <br>
 </div>
 
