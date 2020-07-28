@@ -1,6 +1,12 @@
 ### Hi there 👋, my name is Giorgos
-#### I am a Software Engineer from Cyprus
+#### I am a Software Engineer from Cyprus.
 I am passionate about Computer Science and tech.
+
+<div align="center">
+  <br>
+    <img src="https://giorgos-argyrides.dev/assets/static/my_avatar.daf345a.dbc1286f67625fdb6a55d4bae2dd7440.svg" alt="giorgos" width="200">
+  <br>
+</div>
 
 Skills: Java / Python / C / Vue / HTML / CSS
 
