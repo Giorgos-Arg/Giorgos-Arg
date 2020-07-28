@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, my name is Giorgos
+#### I am a Software Engineer from Cyprus
+I am passionate about Computer Science and tech.
 
-<!--
-**Giorgos-Arg/Giorgos-Arg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: Java / Python / C / Vue / HTML / CSS
 
-Here are some ideas to get you started:
+- 📫 How to reach me: g.argyrides@outlook.com 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Giorgos-Arg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/giorgosargyrides//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/GArgyrides)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://giorgos-argyrides.dev/)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Giorgos-Arg&show_icons=true)  
+
+![Profile views](https://gpvc.arturio.dev/Giorgos-Arg)  
