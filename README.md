@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://giorgos-argyrides.dev/assets/static/my_avatar.daf345a.dbc1286f67625fdb6a55d4bae2dd7440.svg" alt="giorgos" width="100">
+  <img src="https://avatars2.githubusercontent.com/u/59102508?s=460&amp;u=a71bd18a2892ec1e51640dd69da54e4fa828db68&amp;v=4" alt="giorgos" width="100">
  <br>
   <h1>Giorgos Argyrides</h1>
   <sub>
