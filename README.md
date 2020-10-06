@@ -11,7 +11,6 @@
 
 ---
 
-- Skills: Java, Python, C, Vue, HTML, CSS
 - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/Giorgos-Arg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/giorgosargyrides)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/GArgyrides)
 - 📫 g.argyrides@outlook.com 
 
