@@ -3,7 +3,7 @@
  <br>
   <h1>Giorgos Argyrides</h1>
   <sub>
-    Software Engineer from Cyprus
+    Software Developer from Cyprus
     <br>
     <a href="https://giorgos-argyrides.dev">giorgos.dev</a>   
   </sub>
