@@ -5,7 +5,7 @@
   <sub>
     Software Developer from Cyprus
     <br>
-    <a href="https://giorgos-argyrides.dev">giorgos.dev</a>   
+    <a href="https://giorgos.dev">giorgos.dev</a>   
   </sub>
 </div>
 
